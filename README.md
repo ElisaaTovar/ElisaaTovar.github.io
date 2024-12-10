@@ -20,11 +20,10 @@ El proyecto cuenta con las secciones de:
 
 ## Vista previa 
 ![Proyecto](assets/ProyectoCaptura1.png)
-![Proyecto](assets/ProyectoCaptura3.png)
 ![Proyecto](assets/ProyectoCaptura2.png)
+![Proyecto](assets/ProyectoCaptura3.png)
 ![Proyecto](assets/ProyectoCaptura4.png)
 ![Proyecto](assets/ProyectoCaptura5.png)
-![Proyecto](assets/ProyectoCaptura6.png)
 
 ## *¡Espero pronto saber de ti!*
 *Correo:* [perez.anaelisa6im01@gmail.com](mailto:perez.anaelisa6im01@gmail.com)

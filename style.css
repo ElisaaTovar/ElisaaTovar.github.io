@@ -36,6 +36,11 @@ header {
     border-radius: 20px;
 }
 
+.icon-link {
+    text-decoration: none;
+    color: black;
+}
+
 .btn-proyecto{
     background-color: #cfbdbf;
     color: black;
