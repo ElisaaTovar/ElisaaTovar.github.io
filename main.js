@@ -4,7 +4,7 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 
-typewriter.typeString('Desarrolladora Frontend Jr.')
+typewriter.typeString('Técnico en Máquinas con Sistemas Automatizados')
     .pauseFor(2500)
     .deleteAll()
     .typeString('¡Si lo puedes imaginar, lo puedes crear!')
